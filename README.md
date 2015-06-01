@@ -1,4 +1,4 @@
-# Vol.2 with All About
+# Remixing Vol.2 with All About, Inc.
 
 ## 日時/場所/募集人数
 
@@ -24,8 +24,6 @@
 
 **鶴貝和樹**
 
-![](https://s3.amazonaws.com/uploads.hipchat.com/76929/943353/wrtBktLvnEburf8/140918ID12_IMG_7978_580.jpg)
-
 iPhoneアプリ/Androidアプリとか作ってます。  
 ガジェットを買っては、飽きて使わなくなることを繰り返しています。
 あと、ラーメンが好きです。
@@ -38,8 +36,6 @@ iPhoneアプリ/Androidアプリとか作ってます。
 
 **福田幹也**
 
-![](https://s3.amazonaws.com/uploads.hipchat.com/76929/1308609/MpG7PpRezkPxyl0/musclemikiya.jpg)
-
 北海道出身。2012年にオールアバウトに新卒入社し、広告配信システムなどを中心にweb開発全般に関わる。  
 2014年からはオールアバウト初のiOS/Androidアプリ「CafeSnap」の開発を行っている。
 
@@ -50,8 +46,6 @@ iPhoneアプリ/Androidアプリとか作ってます。
 #### スピーカー
 
 **大原和人**
-
-![](https://s3.amazonaws.com/uploads.hipchat.com/76929/943353/9s58BI7oWsCUuxd/profile.png)
 
 2012年にオールアバウトに新卒入社。  
 インフラエンジニアとしてデータセンター移転や仮想環境構築に携わった後、開発エンジニアに転身。  
@@ -66,8 +60,6 @@ iPhoneアプリ/Androidアプリとか作ってます。
 #### スピーカー
 
 **吉田拓実**
-
-![](https://s3.amazonaws.com/uploads.hipchat.com/76929/1309487/0T5ytTYQFCpen2K/qqQqMw7Q.jpeg)
 
 新卒2年目の主にPHP書いてるエンジニア。社内向けのシステム構築やリプレイス等々を行っています。    
 APIおじさん(25歳) 。週末は音ゲーをしによくゲーセンに出没するとか。
